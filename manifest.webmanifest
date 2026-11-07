@@ -1,0 +1,11 @@
+{
+  "name": "Baito Quest",
+  "short_name": "Baito Quest",
+  "description": "バイトの獲得金額をリアルタイムで表示するアプリ",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#092b22",
+  "theme_color": "#123d30",
+  "icons": []
+}
